@@ -39,7 +39,6 @@ Presented at ICSTEM 4.25 International Conference, March 2025.
 
 
 Jaundice-Detection-CNN/
-│
 ├── backend.py       # Model training, HOG feature extraction, CNN architecture
 ├── app.py           # Streamlit frontend for real-time prediction
 └── CNNMODEL.h5      # Trained model (not uploaded due to size)
